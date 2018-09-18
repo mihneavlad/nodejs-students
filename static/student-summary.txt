@@ -1,0 +1,17 @@
+Ghassan Aldarwish is 28 years old and was born in Babylon.
+Fayad Alkhadra is 28 years old and was born in Syria.
+Said Alsagir is 34 years old and was born in Syria.
+Edali Cardenas Beltran is 29 years old and was born in Mexico City.
+Enmanuel Cruz is 27 years old and was born in NYC.
+Rabee Dameer is 32 years old and was born in Syria.
+Itamar Givon is 32 years old and was born in Jerusalem.
+Isaac Giwa is 38 years old and was born in Zaria.
+Abdul Wakil Haidari is 30 years old and was born in Afghanistan.
+Zakaria Moslim is 42 years old and was born in Syria.
+Ahmad Saadat is 25 years old and was born in Afghanistan.
+Jurgen Schuler is 44 years old and was born in Ulm.
+Majed Shrendan is 23 years old and was born in Syria.
+Pilar Torres is 29 years old and was born in Sevilla.
+Mihnea Vlad is 35 years old and was born in Bucharest.
+
+There are 1,5,1,1,1,1,2,1,1,1 students from Babylon,Syria,Mexico City,NYC,Jerusalem,Zaria,Afghanistan,Ulm,Sevilla,Bucharest
